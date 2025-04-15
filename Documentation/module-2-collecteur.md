@@ -88,7 +88,7 @@ Utiliser des rivets de 4mm, pour être compatible avec les grenouillères et les
 
 <figure><img src=".gitbook/assets/Fixation des fermetures (manchon du collecteur) 5.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-## **Étape 13 : Assemblage fond du collecteur**
+## **Étape 13 : Assemblage du fond du collecteur**
 
 Au fond du collecteur, utiliser la colle PVC pour fixer le manchon. Fixer ensuite le tampon dans le manchon.﻿
 

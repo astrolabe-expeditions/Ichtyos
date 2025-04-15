@@ -1,6 +1,6 @@
 # Module 1 : Filet
 
-## **Étape 1 : Traçage des marques de découpe de la maille**
+## **Étape 1 : Patron de découpe de la maille**
 
 > Si vous avez pu récupérer un patron (carton au format de la maille découpée), tracer directement cette forme sur la maille.
 
@@ -49,7 +49,7 @@ Prendre un fer à souder assez puissant (ou sinon ce que vous avez sous la main)
 
 > Attention : Cela a tendance a laisser un dépôt de plastique sur le fer à souder. Penser aussi à aérer la pièce pour éviter les vapeurs de plastique fondu.
 
-## **Étape 3 : Traçage et découpe des bandes de spi**
+## **Étape 3 : Découpe des bandes de spi**
 
 Les bandes de spi vont servir à protéger les bordures de la maille, pour limiter son usure.﻿ On va donc découper des bandes de spi pour les 3 bords : le bas du cône (petit cercle), la bande de côté (longueur) et le haut du cône (grand cercle).﻿
 
@@ -92,7 +92,7 @@ Prendre de la marge permet de compenser les pertes liées aux petits plis fait l
 
 
 
-## **Étape 4 : Couture de la maille et du spi (axe de la longueur)**
+## **Étape 4 : Couture de la maille et du spi (longueur)**
 
 > [Installer sa machine à coudre](https://youtu.be/wQz-m5C40L4)
 >
